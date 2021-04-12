@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "100",
+      "sprites": {
+        "front": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExYTERQYFhYWFhYWGRkaGBYZGhYYFhYaGBYWFBYaHysiGxwoHRYWIzQkKCwuMTIxGSE3PDcwOyswMS4BCwsLDw4PHRERHDAoISgwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwLjAwMDAwMDAwMP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBB//EAEkQAAIBAgMFBQQGBgcHBQEAAAECAwARBBIhBRMxQVEGImFxgSMyQpEHFFJicqEzY4KSorFDU3OTssHCJFSjs9HS0xUWlNTwRP/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EACcRAQEAAgICAQIGAwAAAAAAAAABAhEDIRIxURNBBAUiMmGRocHw/9oADAMBAAIRAxEAPwD2aiiigKKKKAooooCiiigKKKKAooooCiiigKKKKAooooCiiigKKKqO1O3VwkJkIzyMckUY4ySsDlUdBoSTyAJ5UFtRXlGydoNs143MheFsi4oEkqWcgPiUBPcYOcxtoVvcXCkbrbfamKF9yqtNNYExpbuKeDTOxCxqfHU8garMpZtSZyza9orE7G7WYqXHR4YpCUaOSVwofNEiZVB3haz3d1HuLxPC1bapll7i0ss3HaKKKlIooooCiiigKKKKAooooCiiigKKKKAoorlAUVS7Z7VYbDtumcvNa+6jUySWPAsq+4PvMVHjVNP2jxktt1HHhlve8h30hHTIhCIfHM/lVblJ7VuUnts6K84xWyWlObEYnFS+G+MaekcARfW1/Gos3ZfCEWaEML37zO+uuveY66n51X6kUvLHqF67Xkp7MYPS2Gj8O6NKWmw8OoyohQXvaOSWPXqcjCn1Yj60+Hq9V+0duYaAXnxEUQJsM8iLc9BmOp0Necy7Cw7DK8ecdJHkk/xsfD5U5",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvjabvxDXWVpRE1Vu84BXmFSRVetamGySLA&usqp=CAU"
+      },
+      "id": 151
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "100",
+      "sprites": {
+        "front": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM72zRVveg1I4K0u8m6SUhCaWlHruJ9di31A&usqp=CAU",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvjabvxDXWVpRE1Vu84BXmFSRVetamGySLA&usqp=CAU"
+      },
+      "id": 152
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "100",
+      "sprites": {
+        "front": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM72zRVveg1I4K0u8m6SUhCaWlHruJ9di31A&usqp=CAU",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvjabvxDXWVpRE1Vu84BXmFSRVetamGySLA&usqp=CAU"
+      },
+      "id": 153
     }
   ]
 }
